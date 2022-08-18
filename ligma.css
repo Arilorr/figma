@@ -1,0 +1,161 @@
+body {
+    margin: 0;
+}
+
+head {
+    margin: 0;
+}
+
+.ligma1 {
+    background-color: #FFDD99;
+    width: 100vw;
+    height: 1416.09px;
+}
+
+.ligma2 {
+    font-family: Arial;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+    font-weight: 800;
+    letter-spacing: 2px;
+    background-color: #FFDD99;
+    width: 2000px;
+    height: 200px;
+}
+
+.ligma3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ligma4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ligma5>button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.08);
+    border-radius: 5px;
+    width: 83.59px;
+    height: 37.82px;
+    margin-top: 50px;
+    margin-left: 800px;
+    transition: background-color 0.5s;
+}
+
+.ligma5>button:hover {
+    background-color: white;
+}
+
+.ligma5>button:nth-child(2) {
+    margin-left: 5px;
+}
+
+.ligma5>button:nth-child(3) {
+    margin-left: 5px;
+}
+
+.ligma5>button:nth-child(4) {
+    margin-left: 5px;
+}
+
+.ligma6 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    background-color: #FFDD99;
+    width: 1500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.ligma7 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFDD99;
+    width: 2700px;
+    margin-top: -430px;
+}
+
+.ligma8 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFDD99;
+    width: 1500px;
+    margin-top: 100px;
+}
+
+.ligma9 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFDD99;
+    width: 2700px;
+    margin-top: -360px;
+}
+
+.ligma10>button {
+    color: white;
+    border: none;
+    border-radius: 5px;
+    background-color: #17C2A4;
+    width: 200px;
+    height: 50px;
+    box-shadow: 5px 5px #14a98e;
+}
+
+.ligma10 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.ligma01 {
+    margin-top: 30px;
+}
+
+.ligma02 {
+    margin-top: 30px;
+}
+
+.ligma03 {
+    margin-top: 30px;
+}
+
+.ligma04 {
+    margin-top: 30px;
+}
+
+.ligmaball {
+    margin-left: 950px;
+    margin-top: -60px;
+    margin-bottom: 20px;
+}
