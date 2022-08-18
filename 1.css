@@ -1,0 +1,191 @@
+.body {
+  margin: -1%;
+}
+.head {
+  margin: 0%;
+}
+.mur1 {
+  font-size: 40px;
+  margin-top: 5.5vw;
+  margin-left: 2vw;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.wave {
+  height: 40px;
+  width : 40px;
+  margin-top: 5.5vw;
+  margin-left: 2vw;
+}
+.firstmur {
+  display: flex;
+  flex: 1;
+}
+.mur2 {
+  font-size: 40px;
+  margin-left: 2vw;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.mur3 {
+  font-size: 40px;
+  margin-left: 2vw;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.description {
+  margin-left : 2vw;
+  margin-top: 2vw;
+}
+.all {
+ margin-left: 10vw;
+}
+.hire {
+  margin-top: 2vw;
+  margin-left: 2vw;
+  height: 2.5vw;
+  width: 7vw;
+  border: 2px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.see {
+  margin-top: 2vw;
+  height: 2.5vw;
+  margin-left: 1vw;
+  width: 10vw;
+  border: 2px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: azure;
+  background-color: black;
+}
+.button {
+  display: flex;
+  flex: auto;
+}
+.photoback {
+  height: 15vw;
+  width: 15vw;
+  border-bottom-left-radius: 8vw;
+  position: absolute;
+  z-index: -1;
+  border: 0.5vw solid black;
+  margin-left: 0.6vw;
+}
+.page1 {
+  display: flex;
+  flex: 1;
+  margin-left: 15vw;
+}
+.photo {
+  margin-top: 10vw;
+  margin-left: 8vw;
+}
+.text1 {
+  margin-left: 25vw;
+  margin-top: 3vw;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.text2 {
+  margin-left: 25vw;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.mdkue2 {
+  display :flex;
+  flex: auto; 
+  margin-top: 5vw;
+}
+.mdkue {
+  margin-left: 7vw;
+}
+.step1 {
+  display:flex;
+  flex: 1;
+}
+.step2 {
+  display: flex;
+  flex: 1;
+}
+.step3 {
+  display: flex;
+  flex: 1;
+}
+.steptext1 {
+  margin-top: 6vw;
+  margin-left: 4vw;
+  letter-spacing: 0.3vw;
+}
+.stext1 {
+  margin-top: 5vw;
+  font-weight: 1px;
+}
+.box {
+  width: 6vw;
+  height: 2vw;
+  background-color: rgb(229, 182, 190);
+  border-radius: 0.6vw;
+  font-weight: bolder;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2.3vw;
+  margin-left: 2.5vw;
+}
+.viever {
+  display :flex;
+  flex: 1;
+}
+.page3 {
+  margin-left: 6vw;
+}
+.flex {
+  display: flex;
+  flex: 1;
+}
+.flex2 {
+  display: flex;
+  flex-direction: column;
+}
+.send {
+  height: 2vw;
+  width: 8vw;
+  border: 1px;
+  background-image: url(file:///Users/CHINGUN/Desktop/Screen%20Shot%202022-08-17%20at%2019.02.15.png);
+  margin-left: 11.5vw;
+  margin-top: 2vw;
+  border-radius: 5px;
+}
+.page5txt{
+  color: rgb(64, 64, 255);
+  font-size: 3vw;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 28vw;
+  margin-top: 8vw;
+  font-weight: 900;
+}
+.buttonlast {
+  height: 2vw;
+  width: 5vw;
+  border: 0vh;
+  border-radius: 1vw;
+  color: azure;
+  background-color: rgb(64, 64, 255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.page5 {
+  display: flex;
+  flex-direction: column;
+}
+.button5 {
+  display: flex;
+  justify-content: center;
+  margin-top: 5vw;
+}
+.copy {
+  color: rgb(64, 64, 255);
+  display: flex;
+  justify-content: center;
+  margin-top: 5vw;
+}
