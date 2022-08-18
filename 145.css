@@ -1,0 +1,414 @@
+.Photo>img {
+    border: 5px solid black;
+    border-radius: 0px 0px 0px 170px;
+    box-shadow: 10px -15px black;
+    margin-top: 100px;
+    margin-left: 1700px;
+}
+
+header {
+    margin-left: -500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.Photo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left: -1000px;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: -400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.description {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: grey;
+}
+
+.button {
+    background-color: white;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+.button1 {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.EE {
+    margin-top: 60px;
+}
+
+.description {
+    margin-top: 50px;
+}
+
+nav {
+    margin-left: 500px;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(0, 187, 162);
+    width: 900px;
+    height: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.photo11 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -65px;
+    margin-right: 700px;
+}
+
+.text11 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: xx-large;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.text12 {
+    font-size: small;
+    margin-bottom: 10px;
+}
+
+.text13 {
+    font-size: small;
+    margin-bottom: 20px;
+}
+
+.text14 {
+    margin-right: 700px;
+}
+
+.name1 {
+    color: black;
+    margin-top: 20px;
+}
+
+.photo12 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -69px;
+    margin-right: 300px;
+}
+
+.text15 {
+    margin-top: -125px;
+    margin-right: 300px;
+}
+
+.name2 {
+    color: black;
+    margin-top: 27px;
+}
+
+.photo13 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -65px;
+    margin-right: -400px;
+}
+
+.name3 {
+    color: black;
+    margin-top: 27px;
+}
+
+.text16 {
+    margin-right: -400px;
+    margin-top: -130px;
+}
+
+.text17 {
+    margin-right: -700px;
+    margin-top: -110px;
+}
+
+.photo14 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: -700px;
+    margin-top: -60px;
+}
+
+.name4 {
+    color: black;
+    margin-top: 27px;
+}
+
+.skill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.project1 {
+    border: 20px solid rgb(255, 189, 200);
+    margin-left: 520px;
+    margin-top: 20px;
+}
+
+.project2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: x-large;
+    letter-spacing: 10px;
+    margin-left: 850px;
+    margin-top: -250px;
+}
+
+.button11 {
+    background-color: rgb(227, 183, 168);
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    letter-spacing: 5px;
+    margin-left: 1200px;
+    margin-top: -40px;
+}
+
+.text20 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 850px;
+    margin-top: 50px;
+    letter-spacing: 1.5px;
+}
+
+.project3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: x-large;
+    letter-spacing: 10px;
+    margin-left: 500px;
+    margin-top: -200px;
+}
+
+.button12 {
+    background-color: rgb(227, 183, 168);
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    letter-spacing: 5px;
+    margin-top: -50px;
+    margin-left: 850px;
+}
+
+.text30 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 500px;
+    margin-top: 50px;
+    letter-spacing: 1.5px;
+}
+
+.nav3>img {
+    border: 20px solid rgb(227, 183, 168);
+    margin-left: 1100px;
+    margin-top: 100px;
+}
+
+.project41 {
+    border: 20px solid rgb(227, 183, 168);
+    margin-left: 500px;
+    margin-top: 100px;
+}
+
+.project42 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: x-large;
+    letter-spacing: 10px;
+    margin-left: 850px;
+    margin-top: -250px;
+}
+
+.button41 {
+    background-color: rgb(227, 183, 168);
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    letter-spacing: 5px;
+    margin-left: 1200px;
+    margin-top: -50px;
+}
+
+.text40 {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1.5px;
+    margin-left: 850px;
+    margin-top: 50px;
+}
+
+.text50 {
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.5px;
+    color: rgb(248, 129, 129);
+    font-size: x-large;
+    font-weight: 550;
+    margin-top: 100px;
+    margin-left: 500px;
+}
+
+.text100 {
+    margin-left: 400px;
+}
+
+.search-bar {
+    width: 250px;
+    max-width: 700px;
+    background: white;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    margin-left: 500px;
+    margin-top: -250px;
+    box-shadow: 2px 2px grey;
+    border-radius: 10px;
+}
+
+.search-bar input {
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    font-size: 20px;
+}
+
+.message-bar {
+    width: 250px;
+    height: 100px;
+    max-width: 700px;
+    background: white;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    margin-left: 500px;
+    margin-top: 45px;
+    box-shadow: 2px 2px grey;
+    border-radius: 10px;
+}
+
+.message-bar input {
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    font-size: 20px;
+}
+
+.message-bar button {
+    background-color: rgb(0, 110, 255);
+    width: 150px;
+    height: 50px;
+    margin-top: 300px;
+    margin-left: -1500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.text100 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-weight: 800;
+    color: rgb(0, 166, 255);
+    margin-top: 400px;
+    margin-left: 700px;
+}
+
+.text99 {
+    margin-left: 400px;
+}
+
+.button100 {
+    border: none;
+    border-radius: 40px;
+    background-color: rgb(0, 166, 255);
+    width: 150px;
+    height: 50px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+    margin-left: 850px;
+}
+
+.text99 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 166, 255);
+    font-size: medium;
+    margin-left: 825px;
+    margin-top: 100px;
+}
