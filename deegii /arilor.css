@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.all {
+  height: 920px;
+  background-color: #d74680;
+}
+.headertxt {
+  padding-top: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  gap: 30.37px;
+}
+.txt {
+  color: white;
+  font-size: xx-large;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.txt1 {
+  color: white;
+  font-size: larger;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.firstrow {
+  display: flex;
+  flex-direction: column;
+  gap: 19vh;
+  padding-top: 6vh;
+  padding-left: 182px;
+}
+.rapunzel {
+  width: 6vw;
+  height: 12vh;
+  display: flex;
+  border: 1px solid#d74680;
+  border-radius: 10rem;
+}
+.aurora {
+  width: 6vw;
+  height: 12vh;
+  display: flex;
+  border: 1px solid#d74680;
+  border-radius: 10rem;
+}
+.vanellope {
+  width: 6vw;
+  height: 12vh;
+  display: flex;
+  border: 1px solid#d74680;
+  border-radius: 10rem;
+}
+.team {
+  display: flex;
+  flex-direction: row;
+  gap: 49.13px;
+}
+.teamtxt {
+  padding-top: 9vh;
+  display: flex;
+  flex-direction: column;
+}
+.text1 {
+  color: white;
+  font-size: large;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.text2 {
+  color: #ffdd99;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.blue {
+  height: 107px;
+  background-color: #344b8e;
+}
+.social {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 5vh;
+}
+.fb {
+  color: white;
+  font-size: x-large;
+}
+.twit {
+  color: #30bae7;
+  font-size: x-large;
+}
